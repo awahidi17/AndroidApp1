@@ -1,0 +1,10 @@
+Hello,
+
+Please find my MWD3B Android Development Assignment 3 at the following GitHub repository:
+
+https://github.com/awahidi17/AndroidApp1.git
+
+The AndroidApp1 project recreates a one-button application in Android Studio. Pressing the Inspire Me button displays a new motivational message and emoji, changes the background theme, updates the counter, and animates the content.
+
+Thank you,
+Ahmad Wahidi

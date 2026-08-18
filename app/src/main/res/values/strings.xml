@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Daily Motivation</string>
+    <string name="screen_title">Daily Motivation</string>
+    <string name="screen_subtitle">ONE TAP. ONE POSITIVE THOUGHT.</string>
+    <string name="welcome_message">Tap the button when you need a little encouragement.</string>
+    <string name="inspire_button">Inspire Me</string>
+    <string name="tap_count_zero">No inspiration taps yet</string>
+    <string name="tap_count_single">Inspired %1$d time today</string>
+    <string name="tap_count_multiple">Inspired %1$d times today</string>
+    <string name="created_by">Created by Ahmad Wahidi • MWD3B</string>
+
+    <string name="message_1">A small step today can create a big change tomorrow.</string>
+    <string name="message_2">Start where you are, use what you have, and keep moving.</string>
+    <string name="message_3">Progress grows when patience meets consistent effort.</string>
+    <string name="message_4">You are capable of more than your doubts suggest.</string>
+    <string name="message_5">The climb may be difficult, but the view is worth it.</string>
+    <string name="message_6">Your next good idea may be one brave attempt away.</string>
+    <string name="message_7">Focus on the next action, not the entire distance.</string>
+    <string name="message_8">Bring your best energy to the moment in front of you.</string>
+
+    <string name="emoji_welcome">✨</string>
+    <string name="emoji_sun">☀️</string>
+    <string name="emoji_rocket">🚀</string>
+    <string name="emoji_seedling">🌱</string>
+    <string name="emoji_star">⭐</string>
+    <string name="emoji_mountain">⛰️</string>
+    <string name="emoji_light">💡</string>
+    <string name="emoji_target">🎯</string>
+    <string name="emoji_sparkles">✨</string>
+
+    <string name="emoji_welcome_description">Sparkles</string>
+    <string name="emoji_sun_description">Sun</string>
+    <string name="emoji_rocket_description">Rocket</string>
+    <string name="emoji_seedling_description">Seedling</string>
+    <string name="emoji_star_description">Star</string>
+    <string name="emoji_mountain_description">Mountain</string>
+    <string name="emoji_light_description">Light bulb</string>
+    <string name="emoji_target_description">Target</string>
+    <string name="emoji_sparkles_description">Sparkles</string>
+</resources>
