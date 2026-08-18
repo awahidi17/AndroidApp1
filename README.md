@@ -3,7 +3,7 @@
 **Course:** MWD3B — Android Development  
 **Assignment:** Assignment 3  
 **Student:** Ahmad Wahidi  
-**Software:** Android Studio and Git
+**Software:** Android Studio 
 
 ## Project summary
 
@@ -45,8 +45,7 @@ AndroidApp1/
 
 - Android Studio Quail or a compatible recent version
 - Android SDK 36
-- JDK 17
-- Android device or emulator running Android 7.0 (API 24) or newer
+
 
 ## Open and run
 
@@ -57,41 +56,6 @@ AndroidApp1/
 5. Select an emulator or connected Android phone.
 6. Click **Run app**.
 
-## Run the unit tests
 
-In Android Studio, right-click `MotivationSelectorTest` and select **Run**. You can also run:
 
-```bash
-./gradlew test
-```
 
-## Manual testing checklist
-
-1. Launch the app and confirm the welcome message is visible.
-2. Tap **Inspire Me** and confirm the message, emoji, background, and counter change.
-3. Tap several times and confirm the same message never appears twice in a row.
-4. Confirm the message card animates on each tap.
-5. Rotate the emulator and confirm the current message and counter remain unchanged.
-6. Relaunch the app and verify that it remains responsive on a small phone emulator.
-
-## GitHub repository
-
-The configured origin is:
-
-<https://github.com/awahidi17/AndroidApp1.git>
-
-After creating an empty repository named `AndroidApp1` in the `awahidi17` GitHub account, push the committed project with:
-
-```bash
-git push -u origin main
-```
-
-## Rubric alignment
-
-| Criterion | Evidence in this project |
-| --- | --- |
-| Features | Complete one-button experience with messages, themes, animation, counter, haptics, and state restoration |
-| Functionality | Button logic is implemented in `MainActivity`; selection behaviour is isolated and unit tested |
-| Commenting | Kotlin classes, functions, important state, XML sections, and resource choices are clearly commented |
-
-Created by Ahmad Wahidi.
